@@ -1,7 +1,7 @@
 # Neural-Networks
 
-This repository contains the programming exercises and the theory assignments for ECE NTUA course Neural Networks and Intelligent Systems.
-The 4 labs are entitled as:
+This repository contains the programming exercises and the theory assignments for ECE NTUA course Neural Networks and Intelligent Systems.<p/>
+The 4 labs are entitled as:<p/>
 
 Lab 1: Supervised Learning in UCI Machine Learning Dataset <p/>
 Lab 2: Unsupervised Learning in Carnegie Mellon Movie Summary Corpus <p/>
